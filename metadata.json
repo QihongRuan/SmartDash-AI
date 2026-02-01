@@ -1,0 +1,5 @@
+{
+  "name": "DashSmart",
+  "description": "An intelligent AI data analyst that transforms CSV files into interactive dashboards with actionable insights using Google Gemini.",
+  "requestFramePermissions": []
+}
